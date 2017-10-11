@@ -35,3 +35,21 @@ li a {
 li a:hover {
     background-color: #111;
 }
+
+.paragraph-text {
+  font-family: monospace;
+  color: white;
+  text-shadow: 2px 1px 2px red;
+  font-size: 15px;
+  line-height: 15px;
+}
+
+.title {
+  font-family: cursive;
+  font-weight: bolder;
+  font-size: 60px;
+
+}
+.important {
+  color: red;
+}
